@@ -1,10 +1,10 @@
-Hi Everyone!!!
-I am Nazmuz Sakib Zarif, a student from BRAC University studying CSE.
+Hi Everyone!!!\n
+I am Nazmuz Sakib Zarif, a student from BRAC University studying CSE.\n
 I have a basic grasp of the fundamentals of Python, Java and Assembly and I am still growing my understanding of their concepts.
 I'm currently working on a few projects in my university and would like to share them with you people.
-I'm looking collaborate with anyone who will give me a chance to grow my skills and help me grow.
+I'm looking collaborate with anyone who will give me a chance to grow my skills and help me grow.\n
 Ask me about any of the projects and how I can contribute to your projects with my skillset.
-You can reach me on nszarif522@gmail.com
+You can reach me on nszarif522@gmail.com\n
 Im looking forward to working on future projects and meeting more of the community in github
 
 <!--
