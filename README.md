@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi Everyone!!!
+I am Nazmuz Sakib Zarif, a student from BRAC University studying CSE.
+I have a basic grasp of the fundamentals of Python, Java and Assembly and I am still growing my understanding of their concepts.
+I'm currently working on a few projects in my university and would like to share them with you people.
+I'm looking collaborate with anyone who will give me a chance to grow my skills and help me grow.
+Ask me about any of the projects and how I can contribute to your projects with my skillset.
+You can reach me on nszarif522@gmail.com
+Im looking forward to working on future projects and meeting more of the community in github
 
 <!--
 **Zyptonix/Zyptonix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
